@@ -9,7 +9,7 @@ Scanner sc=new Scanner(System.in);
 int a=s.nextInt();
 if(a>0)
 {
-System.out.print("Positive);
+System.out.print("Positive");
 }
 else if(a<0)
 {
